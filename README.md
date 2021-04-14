@@ -1,1 +1,1 @@
-# expence-tracker
+# expense-tracker
